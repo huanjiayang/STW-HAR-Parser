@@ -1,0 +1,25 @@
+Domain,Method,Used on Pages
+author-severntrentwaterdev62.adobecqms.net,GET, : AboutUs
+use.edgefonts.net,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+maps.googleapis.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+apis.google.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+csi.gstatic.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+p.typekit.net,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+platform.twitter.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+connect.facebook.net,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+lh3.googleusercontent.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+fonts.gstatic.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : RAP : TMJ
+accounts.google.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+www.facebook.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+staticxx.facebook.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+ssl.gstatic.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+syndication.twitter.com,GET, : AboutUs : CMA : FindPlumber : FindReservoir : Homepage : IMS : MySevernTrent : RAP : TMJ
+localhost:4502,GET, : CMA : FindPlumber : FindReservoir : Homepage : IMS : RAP : TMJ
+js.arcgis.com,GET, : CMA : FindPlumber : FindReservoir : RAP
+www.arcgis.com,GET, : CMA : FindPlumber : FindReservoir : RAP
+services.arcgisonline.com,GET, : CMA : FindPlumber : FindReservoir : RAP
+static.arcgis.com,GET, : CMA : FindPlumber : FindReservoir : RAP
+server.arcgisonline.com,GET, : CMA : FindPlumber : FindReservoir : RAP
+geocode.arcgis.com,GET, : CMA : FindPlumber : FindReservoir : RAP
+127.0.0.1:4502,GET, : MySevernTrent
+cdnjs.cloudflare.com,GET, : RAP

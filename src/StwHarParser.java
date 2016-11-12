@@ -7,6 +7,7 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 import org.json.*;
 /**
@@ -24,8 +25,11 @@ public class StwHarParser {
 		StwNetworkLog stwNetworkLog = new StwNetworkLog();
 		
 		System.out.println("STW HAR Parser running...");
+		Scanner reader = new Scanner(System.in);  // Reading from System.in
+		System.out.println("Please enter the path to the folder containing all your HAR records: ");
+		String path = reader.nextLine(); 
 		
-		File dir = new File("/Users/huanjiayang/Documents/stw_har/");
+		File dir = new File(path);  //"/Users/huanjiayang/Documents/stw_har/");
 		File[] directoryListing = dir.listFiles();
 		if (directoryListing != null) {
 			for (File file : directoryListing) {
